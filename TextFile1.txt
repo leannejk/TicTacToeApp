@@ -1,0 +1,14 @@
+==========================Exercise Checking Report==========================
+Exercise No...........: 5
+First Student Details.: 2058524173 - Gal Peer
+Second Student Details: 316389931 - Leanne Krivaa
+Delivery Date.........: 27 - June - 2021
+Delivered In Delay....: No
+Delay Reason..........: 
+Visual Studio Version.: 2019
+Comments..............: Bonus explantion- In the Game class (in the logic) we added 2 event handlers. 
+						The first event handler is for updating the UI(GameForm) on a move that was executed 
+						so it could update it on the board seen to the user. 
+						The second event handler purpose is to update the UI(GameForm) of a winning or a tie
+						so it could present the user an appropriate massage
+========================End Exercise Checking Report========================
